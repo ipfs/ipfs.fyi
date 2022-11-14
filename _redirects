@@ -1,2 +1,5 @@
 /       https://ipfs.tech       301
 /blog   https://blog.ipfs.tech  301
+
+# Example repos
+/js-examples https://github.com/ipfs-examples/js-ipfs-examples 301
