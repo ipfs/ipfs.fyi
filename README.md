@@ -1,4 +1,4 @@
-# ipfs.fyi shortlinks
+# 📇 ipfs.fyi shortlinks
 
 <img src="./logo.png" align="right" alt="ipfs.fyi logo" />
 
