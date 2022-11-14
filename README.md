@@ -1,4 +1,4 @@
-# ipfs.fyi
+# ipfs.fyi shortlinks
 
 <img src="https://github.com/ipfs/ipfs.fyi/logo.png" align="right"
      alt="ipfs.fyi logo" width="150" height="150">
@@ -18,3 +18,4 @@ Will redirect from **`ipfs.fyi/blog`** ➡️ `https://blog.ipfs.tech` with an H
 ## `_redirects` file syntax
 
 [`_redirects` syntax docs](https://docs.netlify.com/routing/redirects/redirect-options/)
+
