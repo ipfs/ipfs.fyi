@@ -1,7 +1,6 @@
 # ipfs.fyi shortlinks
 
-<img src="./logo.png" align="right"
-     alt="ipfs.fyi logo" width="150" height="150">
+<img src="./logo.png" align="right" alt="ipfs.fyi logo" />
 
 ipfs.fyi is a short link service that uses the [`_redirects`](./_redirects) file to configure redirections.
 
