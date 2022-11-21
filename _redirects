@@ -2,6 +2,7 @@
 /blog     https://blog.ipfs.tech  301
 /calendar https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84%40group.calendar.google.com 301
 /coc      https://github.com/ipfs/community/blob/master/code-of-conduct.md 301
+/gaetways https://ipfs.github.io/public-gateway-checker/ 301
 
 # Example repos
 /js-examples https://github.com/ipfs-examples/js-ipfs-examples 301
