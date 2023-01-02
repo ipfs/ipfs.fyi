@@ -1,6 +1,7 @@
 /           https://ipfs.tech       301
 /blog       https://blog.ipfs.tech  301
 /calendar   https://lu.ma/ipfs 301
+/cal        https://lu.ma/ipfs 301
 /ocalendar  https://calendar.google.com/calendar/embed?src=ipfs.io_eal36ugu5e75s207gfjcu0ae84%40group.calendar.google.com 301
 /coc        https://github.com/ipfs/community/blob/master/code-of-conduct.md 301
 /gateways   https://ipfs.github.io/public-gateway-checker/ 301
@@ -20,3 +21,7 @@
 # Move the Bytes WG 
 /mtb-yt https://youtube.com/playlist?list=PLuhRWgmPaHtQ--aQ5GlgCyKkQYXUfQpVf 301
 /mtb-notes https://www.notion.so/Move-the-Bytes-WG-2dc2194a004f4b72a9706ad5a150081d 301
+
+
+# ProbeLab
+/probelab https://pl-strflt.notion.site/ProbeLab-Protocol-Benchmarking-Optimization-a63238fd1b184d6f8fea4bb38d975208 301
