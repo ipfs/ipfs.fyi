@@ -2,6 +2,7 @@
 /blog       https://blog.ipfs.tech  301
 /calendar   https://lu.ma/ipfs 301
 /cal        https://lu.ma/ipfs 301
+/ics        https://api.lu.ma/calendar/get-ics?calendar_api_id=cal-85sH6jbua7BU1uu 301
 
 /forum      https://discuss.ipfs.tech/ 301
 /forums     https://discuss.ipfs.tech/ 301
