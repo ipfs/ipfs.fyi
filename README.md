@@ -18,3 +18,7 @@ To redirect from **`ipfs.fyi/blog`** ➡️ `https://blog.ipfs.tech` with an HTT
 
 [`_redirects` syntax docs](https://docs.netlify.com/routing/redirects/redirect-options/)
 
+
+## Deployment details
+
+Currently deployed to Netlify
