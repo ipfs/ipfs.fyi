@@ -10,6 +10,8 @@
 /gateways   https://ipfs.github.io/public-gateway-checker/ 301
 /utils      https://docs.ipfs.tech/concepts/public-utilities/ 301
 
+/preload-sunset  https://discuss.ipfs.tech/t/announcement-phasing-out-of-the-preload-nodes/ 302
+
 # 👇 This Month in IPFS 
 /live-yt      https://youtube.com/playlist?list=PLuhRWgmPaHtRgTkUffVadwueTmDDILQJJ 301
 
