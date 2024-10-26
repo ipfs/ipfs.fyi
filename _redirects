@@ -7,7 +7,11 @@
 /forum      https://discuss.ipfs.tech/ 301
 /forums     https://discuss.ipfs.tech/ 301
 /coc        https://github.com/ipfs/community/blob/master/code-of-conduct.md 301
-/gateways   https://ipfs.github.io/public-gateway-checker/ 301
+
+# Tools
+/check      https://check.ipfs.network 301
+/identify   https://helia-identify.on.fleek.co/ 302
+/gateways   https://ipfs.github.io/public-gateway-checker/ 302
 /utils      https://docs.ipfs.tech/concepts/public-utilities/ 301
 
 /preload-sunset  https://discuss.ipfs.tech/t/announcement-phasing-out-of-the-preload-nodes/ 302
@@ -49,3 +53,4 @@
 
 # IPFS Camp
 /2024campsubmit  https://airtable.com/appM094R1Ma5HG757/shrWn6XaRgUkYWPm3  302
+
