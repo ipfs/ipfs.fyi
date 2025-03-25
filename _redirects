@@ -10,7 +10,7 @@
 
 # Tools
 /check      https://check.ipfs.network 301
-/identify   https://helia-identify.on.fleek.co/ 302
+/identify   https://helia-identify.prd.on-fleek.net/ 302
 /gateways   https://ipfs.github.io/public-gateway-checker/ 302
 /utils      https://docs.ipfs.tech/concepts/public-utilities/ 301
 
