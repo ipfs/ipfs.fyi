@@ -39,6 +39,7 @@
 
 # Implementation Repos
 /helia           https://github.com/ipfs/helia 301
+/debug-helia     https://github.com/ipshipyard/js-libp2p-inspector 302
 /verified-fetch  https://github.com/ipfs/helia-verified-fetch/tree/main/packages/verified-fetch
 /kubo           https://github.com/ipfs/kubo 301
 /iroh           https://github.com/n0-computer/iroh 301
