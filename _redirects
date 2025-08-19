@@ -14,8 +14,8 @@
 /gateways   https://ipfs.github.io/public-gateway-checker/ 302
 /utils      https://docs.ipfs.tech/concepts/public-utilities/ 301
 
-/libp2p-devtools  https://chromewebstore.google.com/detail/libp2p-devtools/jffchlajkkmkdlkbbamknkcnddkhfpip  302
-/quicklaunch https://chromewebstore.google.com/detail/ipfs-quicklaunch/mhlliafhgnniklalnokmmcjjeegbnbfh 302
+/libp2p-devtools   https://chromewebstore.google.com/detail/libp2p-devtools/jffchlajkkmkdlkbbamknkcnddkhfpip 302
+/quicklaunch       https://chromewebstore.google.com/detail/ipfs-quicklaunch/mhlliafhgnniklalnokmmcjjeegbnbfh 302
 
 /preload-sunset  https://discuss.ipfs.tech/t/announcement-phasing-out-of-the-preload-nodes/ 302
 
