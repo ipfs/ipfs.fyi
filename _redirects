@@ -4,6 +4,8 @@
 /cal        https://lu.ma/ipfs 301
 /ics        https://api.lu.ma/ics/get?entity=calendar&id=cal-85sH6jbua7BU1uu 301
 
+/fisl      https://radicle.network/nodes/radicle.norman.life/rad%3Az28uaxjLGV9ZfL7b6YHeaenyGN298 301
+
 /forum      https://discuss.ipfs.tech/ 301
 /forums     https://discuss.ipfs.tech/ 301
 /coc        https://github.com/ipfs/community/blob/master/code-of-conduct.md 301
@@ -19,8 +21,6 @@
 /libp2p-devtools   https://chromewebstore.google.com/detail/libp2p-devtools/jffchlajkkmkdlkbbamknkcnddkhfpip 302
 /quicklaunch       https://chromewebstore.google.com/detail/ipfs-quicklaunch/mhlliafhgnniklalnokmmcjjeegbnbfh 302
 
-/preload-sunset  https://discuss.ipfs.tech/t/announcement-phasing-out-of-the-preload-nodes/ 302
-
 # 👇 This Month in IPFS 
 /live-yt      https://youtube.com/playlist?list=PLuhRWgmPaHtRgTkUffVadwueTmDDILQJJ 301
 
@@ -30,12 +30,6 @@
 # Dev 🥑 calendar links
 /meet-daniel  https://calendar.app.google/gzBezgh3qdUWSMyT7 302
 /meet-lidel   https://lidel.org 302
-
-/daniel       https://hackmd.io/@dnorman/ipfs-foundation-worklog 302
-
-# Forms
-/ecosystem-form   https://airtable.com/shrjwvk9pAeAk0Ci7 301
-/helia-feedback   https://airtable.com/appgppDnTDtpyEFhI/pagizuBtddTY0QDEv/form 302
 
 # Move the Bytes WG 
 /mtb-yt https://youtube.com/playlist?list=PLuhRWgmPaHtQ--aQ5GlgCyKkQYXUfQpVf 301
